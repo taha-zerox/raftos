@@ -11,3 +11,5 @@ MANIFEST
 *.storage
 *.log
 *.state_machine
+
+.DS_Store
